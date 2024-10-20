@@ -9,6 +9,8 @@
 
 詳細については、以下のリンクから「12/2イベント用スクリプト分類」をご参照ください。  
 [12/2イベント用スクリプト分類](https://docs.google.com/document/d/1gwc7ZD18Ozng4loUsS2uGnJ_p45H_ybNdnFWOuDxxVI/edit)
+LINEのMessagingAPIに必要なライブラリ(AICライブラリ)の中身はこちらのGitHubです。
+[aic_gas](https://github.com/kento2247/aic_gas/blob/main/main.js)
 
 ## レビューの優先順位
 1. **不適切なロジック**  
